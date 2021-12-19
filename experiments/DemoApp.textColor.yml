@@ -4,4 +4,5 @@ flag: DemoApp.textColor
 availableValues:
   - pink
   - purple
-value: pink
+  - yellow
+value: yellow
