@@ -1,0 +1,14 @@
+# This file was edited by Cloudbees Feature Management
+type: experiment
+labels:
+  - lbl
+flag: DemoApp.colorsVariant
+availableValues:
+  - green
+  - blue
+  - red
+conditions:
+  - group:
+      name: tg
+    value: green
+value: blue
