@@ -8,4 +8,4 @@ platforms:
   - name: p11
   - name: p12
     value: black
-value: black
+value: red
