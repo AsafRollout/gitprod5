@@ -2,11 +2,9 @@
 type: experiment
 flag: DemoApp.textColor
 availableValues:
-  - black
-  - red
-  - green
+  - fluf
 platforms:
   - name: p11
   - name: p12
     value: black
-value: red
+value: fluf
