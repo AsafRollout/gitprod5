@@ -7,6 +7,4 @@ platforms:
   - name: p11
   - name: p12
     value: '4'
-  - name: p13
-    value: red
 value: purple
