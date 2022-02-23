@@ -3,6 +3,7 @@ type: experiment
 flag: DemoApp.textColor
 availableValues:
   - red
+  - black
 platforms:
   - name: p11
   - name: p12
