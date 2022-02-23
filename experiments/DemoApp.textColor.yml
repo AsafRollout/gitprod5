@@ -7,5 +7,5 @@ availableValues:
 platforms:
   - name: p11
   - name: p12
-    value: '4'
+    value: black
 value: black
