@@ -5,4 +5,8 @@ availableValues:
   - pink
   - purple
   - yellow
+platforms:
+  - name: p11
+  - name: p12
+  - name: p13
 value: purple
