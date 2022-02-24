@@ -2,10 +2,10 @@
 type: experiment
 flag: DemoApp.textColor
 availableValues:
-  - a
+  - b
 platforms:
   - name: p11
-    value: buff
+    value: b
   - name: p12
   - name: p13
     value: tuff
