@@ -2,7 +2,9 @@
 type: experiment
 flag: DemoApp.textColor
 availableValues:
+  - b
   - d
+  - '1'
 platforms:
   - name: p11
     value: b
