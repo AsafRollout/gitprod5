@@ -7,6 +7,4 @@ platforms:
   - name: p11
     value: b
   - name: p12
-  - name: p13
-    value: c
 value: a
