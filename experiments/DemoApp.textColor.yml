@@ -2,11 +2,12 @@
 type: experiment
 flag: DemoApp.textColor
 availableValues:
-  - buff
+  - tuff
 platforms:
   - name: p11
     value: buff
   - name: p12
     value: black
   - name: p13
+    value: tuff
 value: fluf
