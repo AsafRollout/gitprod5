@@ -2,12 +2,11 @@
 type: experiment
 flag: DemoApp.textColor
 availableValues:
-  - a
-  - b
-  - c
   - d
 platforms:
   - name: p11
     value: b
   - name: p12
+    conditions:
+      - value: d
 value: a
