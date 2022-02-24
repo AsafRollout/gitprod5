@@ -1,13 +1,11 @@
 # This file was edited by Cloudbees Feature Management
 type: experiment
 flag: DemoApp.textColor
-availableValues:
-  - tuff
+availableValues: []
 platforms:
   - name: p11
     value: buff
   - name: p12
-    value: black
   - name: p13
     value: tuff
 value: fluf
