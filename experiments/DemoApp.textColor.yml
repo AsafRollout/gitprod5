@@ -2,10 +2,10 @@
 type: experiment
 flag: DemoApp.textColor
 availableValues:
-  - ''
+  - g
 platforms:
   - name: p11
     value: z
   - name: p12
     value: '4'
-value: ''
+value: g
