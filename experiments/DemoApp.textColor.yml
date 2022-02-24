@@ -1,7 +1,11 @@
 # This file was edited by Cloudbees Feature Management
 type: experiment
 flag: DemoApp.textColor
-availableValues: []
+availableValues:
+  - a
+  - b
+  - c
+  - d
 platforms:
   - name: p11
     value: b
