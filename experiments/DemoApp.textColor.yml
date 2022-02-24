@@ -1,11 +1,9 @@
 # This file was edited by Cloudbees Feature Management
 type: experiment
 flag: DemoApp.textColor
-availableValues:
-  - '123'
+availableValues: []
 platforms:
   - name: p11
     value: z
   - name: p12
     value: '4'
-value: '123'
