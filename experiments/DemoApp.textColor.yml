@@ -9,4 +9,4 @@ platforms:
   - name: p12
     conditions:
       - value: d
-value: a
+value: d
