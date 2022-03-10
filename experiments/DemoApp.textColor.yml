@@ -8,4 +8,9 @@ platforms:
     value: z
   - name: p12
     value: '4'
+conditions:
+  - version:
+      operator: semver-eq
+      semver: 0.0.0
+    value: a
 value: a
