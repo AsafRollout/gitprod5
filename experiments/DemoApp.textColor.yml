@@ -11,6 +11,6 @@ platforms:
 conditions:
   - version:
       operator: semver-eq
-      semver: v1.0.2
-    value: a
+      semver: '1.0'
+    value: null
 value: a
